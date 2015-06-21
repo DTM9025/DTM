@@ -2,9 +2,9 @@
 	"dependencies": [
 		"nmlgc/base_tsa"
 	],
-	"id": "Dairi_Art",
+	"id": "alphes",
 	"servers": [
-		"https://raw.githubusercontent.com/DTM9025/DTM/master/Dairi_Art/"
+		"https://raw.githubusercontent.com/DTM9025/DTM/master/alphes/"
 	],
 	"title": "Replaces ZUN's art with Dairi's (alphes style)"
 }
