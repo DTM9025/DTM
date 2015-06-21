@@ -1,4 +1,5 @@
 {
+	"README.md": 2234359061,
 	"patch.js": 1163487149,
 	"th07/data/face/st01/face_01_00.png": 932690426,
 	"th07/data/face/st02/face_02_00.png": 2686338830,
