@@ -2,7 +2,7 @@
 	"contact": "DTM9025@outlook.com",
 	"id": "DTM",
 	"patches": {
-		"alphes": "Replaces ZUN's art with Dairi's (alphes style)"
+		"alphes": "Alphes Styled Character Portraits (Art by Dairi)"
 	},
 	"servers": [
 		"https://raw.githubusercontent.com/DTM9025/DTM/master/"

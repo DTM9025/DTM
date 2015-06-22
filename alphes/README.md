@@ -1,21 +1,23 @@
 # Alphes Styled Character Portraits
 
-This patch replaces ZUN's character portrait art with that of Dairi's, which are in the alphes style.
+**[Return to Home](https://github.com/DTM9025/DTM)**
+
+This patch replaces ZUN's character portrait art with that of Dairi's, which are in the alphes style.  
 **Example:**
 <p align="center">
   <b>ZUN Art -> Dairi Art</b><br>
-  <img src="http://en.touhouwiki.net/images/e/e7/Th06Reimu.png"  height="400"><img src="http://i.imgur.com/m62xDMO.png?2">
+  <img src="http://en.touhouwiki.net/images/e/e7/Th06Reimu.png" height="400"><img src="http://i.imgur.com/m62xDMO.png" height="400">
 </p>
 
 ## Instructions
 1. Download [thcrap](https://thpatch.net/wiki/Touhou_Patch_Center:Download).
 2. Run the configurer.
-3. Select the "alphes" patch after any language pactches if you want said language patches (e.g. lang_en -> alphes).
+3. Select the "alphes" patch after any language patches if you want said language patches (e.g. lang_en -> alphes).
 4. Once the shortcuts have been generated, you can move those shortcuts anywhere.
 5. Double click on the shortcut to begin the game!
 
 ## Image Licensing
-These images are the property of Dairi.  The terms of use are displayed below in the original Japanese.
+The images used in this patch are the property of Dairi.  The terms of use are displayed below in the original Japanese.
 
 　こちらはキャラクター立ち絵素材です。  
 　ご利用の際は以下の規約をお守り下さい。  

@@ -6,5 +6,5 @@
 	"servers": [
 		"https://raw.githubusercontent.com/DTM9025/DTM/master/alphes/"
 	],
-	"title": "Replaces ZUN's art with Dairi's (alphes style)"
+	"title": "Alphes Styled Character Portraits (Art by Dairi)"
 }
