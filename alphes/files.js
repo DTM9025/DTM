@@ -24,5 +24,14 @@
 	"th07/data/face/st08/face_08_02.png": 1424398672,
 	"th07/data/title/sl_pl00.png": 4222737967,
 	"th07/data/title/sl_pl01.png": 1035842407,
-	"th07/data/title/sl_pl02.png": 3431400605
+	"th07/data/title/sl_pl02.png": 3431400605,
+	"th08/data/face/reimu/face_rm00.png": 1626037261,
+	"th08/data/face/reimu/face_rm01an.png": 2201281823,
+	"th08/data/face/reimu/face_rm01dp.png": 2923494697,
+	"th08/data/face/reimu/face_rm01hp.png": 751391698,
+	"th08/data/face/reimu/face_rm01n2.png": 2758649504,
+	"th08/data/face/reimu/face_rm01no.png": 1454805848,
+	"th08/data/face/reimu/face_rm01pr.png": 1212813048,
+	"th08/data/face/reimu/face_rm01sp.png": 22660123,
+	"th08/data/face/reimu/face_rm01sw.png": 3488302955
 }
