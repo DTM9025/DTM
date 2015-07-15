@@ -18,11 +18,11 @@ This patch replaces ZUN's character portrait art with that of Dairi's, which are
 
 ## Supported Games
 
-| Game     | Support  | Game     | Support | Game     | Support |
-|----------|----------|----------|---------|----------|---------|
-| **TH07** | Complete | **TH10** | Planned | **TH13** | Planned |
-| **TH08** | 14.4%    | **TH11** | Planned | **TH14** | Planned |
-| **TH09** | Planned  | **TH12** | Planned | **TH15** | Planned |
+| Game     | Support  | Game     | Support | Game     | Support |  
+|----------|----------|----------|---------|----------|---------|  
+| **TH07** | Complete | **TH10** | Planned | **TH13** | Planned |  
+| **TH08** | 22.4%    | **TH11** | Planned | **TH14** | Planned |  
+| **TH09** | Planned  | **TH12** | Planned | **TH15** | Planned |  
 
 ## Image Licensing
 The images used in this patch are the property of Dairi and are available [here](https://drive.google.com/folderview?id=0B34TvJayojX_REtldUh1alhMU2c&usp=sharing).  The terms of use are displayed below in the original Japanese.
