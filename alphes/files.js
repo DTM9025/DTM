@@ -1,5 +1,5 @@
 {
-	"README.md": 2153316226,
+	"README.md": 4256136652,
 	"patch.js": 1885407814,
 	"th07/data/face/marisa/face_mr00.png": 3223597100,
 	"th07/data/face/marisa/face_mr01.png": 2372258566,
@@ -71,5 +71,15 @@
 	"th08/data/face/sakuya/face_sk01no.png": 549157763,
 	"th08/data/face/sakuya/face_sk01pr.png": 3782296235,
 	"th08/data/face/sakuya/face_sk01sp.png": 823244176,
-	"th08/data/face/sakuya/face_sk01sw.png": 1956104440
+	"th08/data/face/sakuya/face_sk01sw.png": 1956104440,
+	"th08/data/face/youmu/face_ym00.png": 3745284883,
+	"th08/data/face/youmu/face_ym00lr.png": 11527290,
+	"th08/data/face/youmu/face_ym01an.png": 3160029678,
+	"th08/data/face/youmu/face_ym01dp.png": 152097206,
+	"th08/data/face/youmu/face_ym01hp.png": 2246924414,
+	"th08/data/face/youmu/face_ym01n2.png": 1147026807,
+	"th08/data/face/youmu/face_ym01no.png": 1644900004,
+	"th08/data/face/youmu/face_ym01pr.png": 1604870919,
+	"th08/data/face/youmu/face_ym01sp.png": 3955117427,
+	"th08/data/face/youmu/face_ym01sw.png": 3088013684
 }
