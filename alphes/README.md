@@ -21,7 +21,7 @@ This patch replaces ZUN's character portrait art with that of Dairi's, which are
 | Game     | Support  | Game     | Support | Game     | Support |  
 |----------|----------|----------|---------|----------|---------|  
 | **TH07** | Complete | **TH10** | Planned | **TH13** | Planned |  
-| **TH08** | 39.7%    | **TH11** | Planned | **TH14** | Planned |  
+| **TH08** | 45.2%    | **TH11** | Planned | **TH14** | Planned |  
 | **TH09** | Planned  | **TH12** | Planned | **TH15** | Planned |  
 
 ## Image Licensing
