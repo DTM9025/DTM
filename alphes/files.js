@@ -1,5 +1,5 @@
 {
-	"README.md": 3713937646,
+	"README.md": 502576132,
 	"patch.js": 1885407814,
 	"th07/data/face/marisa/face_mr00.png": 3223597100,
 	"th07/data/face/marisa/face_mr01.png": 2372258566,
@@ -109,6 +109,7 @@
 	"th08/data/face/st05/face_st05ls.png": 1848802173,
 	"th08/data/face/st05/face_st05no.png": 1788781321,
 	"th08/data/face/st05/face_st05sw.png": 707127542,
+	"th08/data/face/st05m/face_st05ma.png": 273703895,
 	"th08/data/face/st08m/face_st08ma.png": 2629786978,
 	"th08/data/face/st08m/face_st08mno.png": 1488192835,
 	"th08/data/face/youmu/face_ym00.png": 3745284883,
