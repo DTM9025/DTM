@@ -23,11 +23,11 @@ Thanks to the thcrap patching engine, this patch is automatically updated when t
 | Game     | Support  | Game     | Support | Game     | Support |  
 |----------|----------|----------|---------|----------|---------|  
 | **TH07** | Complete | **TH10** | Planned | **TH13** | Planned |  
-| **TH08** | 57.5%    | **TH11** | Planned | **TH14** | Planned |  
+| **TH08** | 63.7%    | **TH11** | Planned | **TH14** | Planned |  
 | **TH09** | Planned  | **TH12** | Planned | **TH15** | Planned |  
 
 ## Image Licensing
-The images used in this patch are the property of Dairi and are available [here](https://drive.google.com/folderview?id=0B34TvJayojX_REtldUh1alhMU2c&usp=sharing).  The terms of use are displayed below in the original Japanese.
+The images used in this patch are the property of [Dairi](http://www.pixiv.net/member.php?id=4920496) and are available [here](https://drive.google.com/folderview?id=0B34TvJayojX_REtldUh1alhMU2c&usp=sharing).  The terms of use are displayed below in the original Japanese.
 
 　こちらはキャラクター立ち絵素材です。  
 　ご利用の際は以下の規約をお守り下さい。  
