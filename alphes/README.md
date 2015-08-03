@@ -16,14 +16,14 @@ This patch replaces ZUN's character portrait art with that of Dairi's, which are
 4. Once the shortcuts have been generated, you can move those shortcuts anywhere.
 5. Double click on the shortcut to begin the game!
 
-Thanks to the thcrap patching engine, this patch is automatically updated when the game is started and does not modify any game files.  Therefore, you can be assured that you have the latest version of this patch without having to worry about remodifying the game files.
+Thanks to the thcrap patching engine, this patch is automatically updated when the game is started and does not modify any game files.  Therefore, you can be assured that you have the latest version of this patch without having to worry about modifying game files.
 
 ## Supported Games
 
 | Game     | Support  | Game     | Support | Game     | Support |  
 |----------|----------|----------|---------|----------|---------|  
 | **TH07** | Complete | **TH10** | Planned | **TH13** | Planned |  
-| **TH08** | 52.1%    | **TH11** | Planned | **TH14** | Planned |  
+| **TH08** | 57.5%    | **TH11** | Planned | **TH14** | Planned |  
 | **TH09** | Planned  | **TH12** | Planned | **TH15** | Planned |  
 
 ## Image Licensing
