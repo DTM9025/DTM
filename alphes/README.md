@@ -20,11 +20,12 @@ Thanks to the thcrap patching engine, this patch is automatically updated when t
 
 ## Supported Games
 
-| Game     | Support  | Game     | Support | Game     | Support |  
-|----------|----------|----------|---------|----------|---------|  
-| **TH07** | Complete | **TH10** | Planned | **TH13** | Planned |  
-| **TH08** | Complete | **TH11** | Planned | **TH14** | Planned |  
-| **TH09** | 59.6%    | **TH12** | Planned | **TH15** | Planned |  
+| Game      | Support  | Game      | Support | Game      | Support |  
+|:---------:|:--------:|:---------:|:-------:|:---------:|:-------:|  
+| **TH07**  | Complete | **TH10**  | Planned | **TH13**  | Planned |  
+| **TH08**  | Complete | **TH11**  | Planned | **TH14**  | Planned |  
+| **TH09**  | 65.6%    | **TH12**  | Planned | **TH143** | Planned |  
+| **TH095** | Complete | **TH125** | Planned | **TH15**  | Planned |  
 
 ## Image Licensing
 The images used in this patch are the property of [Dairi](http://www.pixiv.net/member.php?id=4920496) and are available [here](https://drive.google.com/folderview?id=0B34TvJayojX_REtldUh1alhMU2c&usp=sharing).  The terms of use are displayed below in the original Japanese.
