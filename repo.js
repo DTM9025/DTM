@@ -2,7 +2,7 @@
 	"contact": "DTM9025@outlook.com",
 	"id": "DTM",
 	"patches": {
-		"alphes": "Alphes Styled Character Portraits (Art by Dairi)\n                          TH09+ Support in Progress"
+		"alphes": "Alphes Styled Character Portraits (Art by Dairi)\n                          - TH10+ Support in Progress"
 	},
 	"servers": [
 		"https://raw.githubusercontent.com/DTM9025/DTM/master/"
