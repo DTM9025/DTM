@@ -149,6 +149,7 @@
 	"th08/data/face/yukari/face_yk01pr.png": 68442585,
 	"th08/data/face/yukari/face_yk01sp.png": 4019579877,
 	"th08/data/face/yukari/face_yk01sw.png": 1321283375,
+	"th08/data/face/yukari/face_yk02.png": 3933914451,
 	"th08/data/face/yuyuko/face_yy00.png": 101550981,
 	"th08/data/face/yuyuko/face_yy01an.png": 1338878697,
 	"th08/data/face/yuyuko/face_yy01dp.png": 2067210042,
