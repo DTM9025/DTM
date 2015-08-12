@@ -1,5 +1,5 @@
 {
-	"README.md": 2625796041,
+	"README.md": 1929949547,
 	"patch.js": 411246715,
 	"th07/data/face/marisa/face_mr00.png": 3223597100,
 	"th07/data/face/marisa/face_mr01.png": 2372258566,
@@ -846,5 +846,21 @@
 	"th10/face/pl01/face_pl01sp_u.png": 1401868833,
 	"th10/face/pl01/face_pl01sw_u.png": 3800185122,
 	"th10/title/sl_pl00.png": 2710098903,
-	"th10/title/sl_pl01.png": 3849362488
+	"th10/title/sl_pl01.png": 3849362488,
+	"th11/face/pl00/face_pl00an.png": 3513463228,
+	"th11/face/pl00/face_pl00dp.png": 830016095,
+	"th11/face/pl00/face_pl00hp.png": 3914684211,
+	"th11/face/pl00/face_pl00n2.png": 929171583,
+	"th11/face/pl00/face_pl00no.png": 901982875,
+	"th11/face/pl00/face_pl00pr.png": 3993555748,
+	"th11/face/pl00/face_pl00sp.png": 4155016401,
+	"th11/face/pl00/face_pl00sw.png": 500489310,
+	"th11/face/pl01/face_pl01an.png": 1478517883,
+	"th11/face/pl01/face_pl01dp.png": 2783432329,
+	"th11/face/pl01/face_pl01hp.png": 426529340,
+	"th11/face/pl01/face_pl01n2.png": 2602390858,
+	"th11/face/pl01/face_pl01no.png": 2398240209,
+	"th11/face/pl01/face_pl01pr.png": 802919748,
+	"th11/face/pl01/face_pl01sp.png": 1066899519,
+	"th11/face/pl01/face_pl01sw.png": 4142425764
 }

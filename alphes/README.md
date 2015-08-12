@@ -23,7 +23,7 @@ Thanks to the thcrap patching engine, this patch is automatically updated when t
 | Game      | Support  | Game      | Support  | Game      | Support |  
 |:---------:|:--------:|:---------:|:--------:|:---------:|:-------:|  
 | **TH07**  | Complete | **TH10**  | Complete | **TH13**  | Planned |  
-| **TH08**  | Complete | **TH11**  | Planned  | **TH14**  | Planned |  
+| **TH08**  | Complete | **TH11**  | 26.2%    | **TH14**  | Planned |  
 | **TH09**  | Complete | **TH12**  | Planned  | **TH143** | Planned |  
 | **TH095** | Complete | **TH125** | Planned  | **TH15**  | Planned |  
 
