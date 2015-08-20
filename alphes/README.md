@@ -24,7 +24,7 @@ Thanks to the thcrap patching engine, this patch is automatically updated when t
 |:---------:|:--------:|:---------:|:--------:|:---------:|:-------:|  
 | **TH07**  | Complete | **TH10**  | Complete | **TH13**  | Planned |  
 | **TH08**  | Complete | **TH11**  | 96.7%    | **TH14**  | Planned |  
-| **TH09**  | Complete | **TH12**  | Planned  | **TH143** | Planned |  
+| **TH09**  | Complete | **TH12**  | Complete | **TH143** | Planned |  
 | **TH095** | Complete | **TH125** | Planned  | **TH15**  | Planned |  
 
 ## Image Licensing
