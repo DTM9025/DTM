@@ -1,6 +1,6 @@
 {
 	"README.md": 2142591209,
-	"patch.js": 411246715,
+	"patch.js": 3939814787,
 	"th07/data/face/marisa/face_mr00.png": 3223597100,
 	"th07/data/face/marisa/face_mr01.png": 2372258566,
 	"th07/data/face/reimu/face_rm00.png": 281484117,
