@@ -1145,7 +1145,6 @@
 	"th14/face/enemy7/face07no.png": 2707499327,
 	"th14/face/enemy7/face07pr.png": 3422708033,
 	"th14/face/enemy7/face07sp.png": 1585554236,
-	"th14/face/enemy7/face07sp2.png": 1154550273,
 	"th14/face/enemy7m/face07bs.png": 73658608,
 	"th14/face/enemy7m/face07mct.png": 2646704079,
 	"th14/face/enemy7m/face07no.png": 2907315152,
