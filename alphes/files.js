@@ -1,5 +1,5 @@
 {
-	"README.md": 233099727,
+	"README.md": 2172656103,
 	"patch.js": 840414885,
 	"th07/data/face/marisa/face_mr00.png": 3223597100,
 	"th07/data/face/marisa/face_mr01.png": 2372258566,
@@ -870,8 +870,10 @@
 	"th11/face/enemy4/face04pr.png": 790203325,
 	"th11/face/enemy5/face05ct.png": 1880928931,
 	"th11/face/enemy5/face05dp.png": 2402715655,
+	"th11/face/enemy5/face05lo.png": 499653195,
 	"th11/face/enemy5/face05n2.png": 1517525984,
 	"th11/face/enemy5/face05no.png": 3374129090,
+	"th11/face/enemy5/face05sp.png": 3107439472,
 	"th11/face/enemy6/face06ct.png": 3156355001,
 	"th11/face/enemy6/face06dp.png": 2261128958,
 	"th11/face/enemy6/face06n2.png": 3714789096,
