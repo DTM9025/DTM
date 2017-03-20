@@ -22,27 +22,34 @@ Thanks to the thcrap patching engine, this patch is automatically updated whenev
 
 | Game      | Support  | Game      | Support  | Game      | Support  |  
 |:---------:|:--------:|:---------:|:--------:|:---------:|:--------:|  
-| **TH07**  | Complete | **TH10**  | Complete | **TH13**  | Complete |  
-| **TH08**  | Complete | **TH11**  | Complete | **TH14**  | Complete |  
-| **TH09**  | Complete | **TH12**  | Complete | **TH143** | Planned  |  
-| **TH095** | Complete | **TH125** | Complete | **TH15**  | Planned  |  
+| **TH06**  | Planned  | **TH10**  | Complete | **TH14**  | Complete |  
+| **TH07**  | Complete | **TH11**  | Complete | **TH143** | Complete |  
+| **TH08**  | Complete | **TH12**  | Complete | **TH15**  | 33.333%  |  
+| **TH09**  | Complete | **TH125** | Complete |
+| **TH095** | Complete | **TH13**  | Complete |
 
 ## Image Licensing
 The images used in this patch are the property of [Dairi](http://www.pixiv.net/member.php?id=4920496) and are available [here](https://drive.google.com/folderview?id=0B34TvJayojX_REtldUh1alhMU2c&usp=sharing).  The terms of use are displayed below in the original Japanese.
 
-　こちらはキャラクター立ち絵素材です。  
-　ご利用の際は以下の規約をお守り下さい。  
+<pre>
+　こちらは東方projectキャラクターの立ち絵素材です。
+　ご利用の際は以下の規約をお守り下さい。
 
-　■ 金銭が絡む事への使用、再配布はご遠慮下さい。  
+　■ オンラインストレージへの直接リンクはご遠慮下さい。
 
-　■ 加工はＯＫですが、加工したものをご自分の作品として配布するのはご勘弁下さい。  
+　■ 商用利用、再配布はご遠慮下さい。
+　　 ニコニコのクリエイター奨励プログラムへの登録、
+　　 YoutubeやHPの広告収入については問題ありません。
 
-　■ 使用報告は強制ではありません。  
-　　 ニコニコ内であれば立ち絵のいずれかを親作品にして貰えるとお知らせが届きますので、知らせて貰えると喜びます。  
+　■ 加工はＯＫですが、加工したものをご自分の作品として配布するのはご勘弁下さい。
 
-　■ 素材利用後のトラブル等は全て自己責任でお願いします。  
-　
-　　　　　　　　　　　　　　　　　　　　　　  ◆2014/02/22 dairi  
+　■ 使用報告は強制ではありません。
+　　 ニコニコ内であれば素材のいずれかを親作品にして貰えるとお知らせが届きますので、知らせて貰えると喜びます。
+
+　■ 素材利用後のトラブル等は全て自己責任でお願いします。
+
+　　　　　　　　　　　　　　　　　　　　　　  ◆2015/03/28 dairi＆はるか
+</pre>
 
 Summary: Free to use, commercial use prohibited, editing allowed.  
 

@@ -6,5 +6,5 @@
 	"servers": [
 		"https://raw.githubusercontent.com/DTM9025/DTM/master/alphes/"
 	],
-	"title": "Alphes Styled Character Portraits (Art by Dairi)\n                          - TH14+ Support in Progress"
+	"title": "Alphes Styled Character Portraits (Art by Dairi)"
 }
