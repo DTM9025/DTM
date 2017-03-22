@@ -1,5 +1,5 @@
 {
-	"README.md": 1603935067,
+	"README.md": 242269111,
 	"patch.js": 1885407814,
 	"th07/data/face/marisa/face_mr00.png": 3223597100,
 	"th07/data/face/marisa/face_mr01.png": 2372258566,
@@ -1288,6 +1288,8 @@
 	"th15/face/pl00/face_pl00pr.png": 1981303961,
 	"th15/face/pl00/face_pl00sp.png": 2525522811,
 	"th15/face/pl00/face_pl00sw.png": 1792523409,
+	"th15/face/pl00/title_pl00.png": 3370369889,
+	"th15/face/pl00/title_pl00b.png": 1017364838,
 	"th15/face/pl01/face_pl01an.png": 3592810760,
 	"th15/face/pl01/face_pl01bs.png": 2787354888,
 	"th15/face/pl01/face_pl01dp.png": 3050732063,
@@ -1297,6 +1299,8 @@
 	"th15/face/pl01/face_pl01pr.png": 3133048879,
 	"th15/face/pl01/face_pl01sp.png": 2805888620,
 	"th15/face/pl01/face_pl01sw.png": 1711316258,
+	"th15/face/pl01/title_pl01.png": 1080738728,
+	"th15/face/pl01/title_pl01b.png": 109596358,
 	"th15/face/pl02/face_pl02an.png": 1796661262,
 	"th15/face/pl02/face_pl02bs.png": 2779204662,
 	"th15/face/pl02/face_pl02dp.png": 2205884067,
@@ -1306,6 +1310,8 @@
 	"th15/face/pl02/face_pl02pr.png": 2067693663,
 	"th15/face/pl02/face_pl02sp.png": 659686237,
 	"th15/face/pl02/face_pl02sw.png": 868865247,
+	"th15/face/pl02/title_pl02.png": 598965642,
+	"th15/face/pl02/title_pl02b.png": 1964534717,
 	"th15/face/pl03/face_pl03an.png": 283798461,
 	"th15/face/pl03/face_pl03bs.png": 2433555875,
 	"th15/face/pl03/face_pl03dp.png": 202615925,
@@ -1314,5 +1320,8 @@
 	"th15/face/pl03/face_pl03no.png": 2317090410,
 	"th15/face/pl03/face_pl03pr.png": 1980248128,
 	"th15/face/pl03/face_pl03sp.png": 3391179737,
-	"th15/face/pl03/face_pl03sw.png": 1483286997
+	"th15/face/pl03/face_pl03sw.png": 1483286997,
+	"th15/face/pl03/title_pl03.png": 2308983534,
+	"th15/face/pl03/title_pl03b.png": 1880616993,
+	"th15/title/title_ch00.png": 2578478274
 }
