@@ -926,7 +926,7 @@
 	"th12/face/enemy3/face03sw.png": 3952037745,
 	"th12/face/enemy4/face04an.png": 3710561555,
 	"th12/face/enemy4/face04dp.png": 981336669,
-	"th12/face/enemy4/face04lo.png": 2958733681,
+	"th12/face/enemy4/face04lo.png": 2805885487,
 	"th12/face/enemy4/face04n2.png": 366095283,
 	"th12/face/enemy4/face04no.png": 2687936511,
 	"th12/face/enemy4/face04sw.png": 1622029616,
