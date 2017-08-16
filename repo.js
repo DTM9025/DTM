@@ -3,7 +3,8 @@
 	"id": "DTM",
 	"patches": {
 		"alphes": "Alphes Styled Character Portraits (Art by Dairi)",
-		"lang_en-shifted_bgm": "English Language pack with shifted music titles in stage"
+		"lang_en-shifted_bgm": "English Language pack with shifted music titles in stage",
+		"transparent_season_items": "Increases the transparency of season items (by Namusan)"
 	},
 	"servers": [
 		"https://raw.githubusercontent.com/DTM9025/DTM/master/"
