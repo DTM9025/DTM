@@ -1,4 +1,4 @@
 {
-	"bullet/item.png": 453137920,
-	"patch.js": 2224473504
+	"patch.js": 2224473504,
+	"th16/bullet/item.png": 453137920
 }
