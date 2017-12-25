@@ -12,7 +12,7 @@ This patch replaces ZUN's character portrait art with that of Dairi's, which are
 ## Instructions
 1. Download [thcrap](https://thpatch.net/wiki/Touhou_Patch_Center:Download).
 2. Run the configurer.
-3. Select the "alphes" patch after any language patches if you want said language patches (e.g. lang_en -> alphes).
+3. Select the "alphes" patch after any language patches if you want said language patches (e.g. select the lang_en patch first, and then the alphes patch next in the configurer).
 4. Once the shortcuts have been generated, you can move those shortcuts anywhere.
 5. Double click on the shortcut to begin the game!
 
@@ -25,7 +25,7 @@ Thanks to the thcrap patching engine, this patch is automatically updated whenev
 | **TH06**  | Planned  | **TH10**  | Complete | **TH14**  | Complete |  
 | **TH07**  | Complete | **TH11**  | Complete | **TH143** | Complete |  
 | **TH08**  | Complete | **TH12**  | Complete | **TH15**  | Complete |  
-| **TH09**  | Complete | **TH125** | Complete | **TH16**  | 47.8%    |  
+| **TH09**  | Complete | **TH125** | Complete | **TH16**  | 58.4%    |  
 | **TH095** | Complete | **TH13**  | Complete |  
 
 ## Image Licensing
