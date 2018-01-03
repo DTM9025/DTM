@@ -1,2 +1,2 @@
-python ..\scripts\repo_update.py
+python3 ..\scripts\repo_update.py
 pause
