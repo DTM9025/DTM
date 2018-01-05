@@ -1,5 +1,5 @@
 {
-	"README.md": 3701216765,
+	"README.md": 698914906,
 	"patch.js": 1885407814,
 	"th07/data/face/marisa/face_mr00.png": 3223597100,
 	"th07/data/face/marisa/face_mr01.png": 2372258566,
@@ -1427,5 +1427,9 @@
 	"th16/face/pl03/face_pl03no.png": 3956851512,
 	"th16/face/pl03/face_pl03pr.png": 824332715,
 	"th16/face/pl03/face_pl03sp.png": 2647861499,
-	"th16/face/pl03/face_pl03sw.png": 873209831
+	"th16/face/pl03/face_pl03sw.png": 873209831,
+	"th16/title/title_pl00b.png": 2091409051,
+	"th16/title/title_pl01b.png": 703532427,
+	"th16/title/title_pl02b.png": 392641224,
+	"th16/title/title_pl03b.png": 4136742875
 }
