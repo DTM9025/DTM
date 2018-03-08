@@ -131,7 +131,7 @@
 	"th08/data/face/st08m/face_st08ma.png": 2629786978,
 	"th08/data/face/st08m/face_st08mno.png": 1488192835,
 	"th08/data/face/youmu/face_ym00.png": 3745284883,
-	"th08/data/face/youmu/face_ym00lr.png": 11527290,
+	"th08/data/face/youmu/face_ym00lr.png": 55373148,
 	"th08/data/face/youmu/face_ym01an.png": 3160029678,
 	"th08/data/face/youmu/face_ym01dp.png": 152097206,
 	"th08/data/face/youmu/face_ym01hp.png": 2246924414,
