@@ -26,7 +26,7 @@ Thanks to the thcrap patching engine, this patch is automatically updated whenev
 | **TH07**  | Complete | **TH11**  | Complete | **TH143** | Complete |  
 | **TH08**  | Complete | **TH12**  | Complete | **TH15**  | Complete |  
 | **TH09**  | Complete | **TH125** | Complete | **TH16**  | Complete |  
-| **TH095** | Complete | **TH13**  | Complete |  
+| **TH095** | Complete | **TH13**  | Complete | **TH165** | Complete |  
 
 ## Image Licensing
 The images used in this patch are the property of [Dairi](http://www.pixiv.net/member.php?id=4920496) and are available [here](https://goo.gl/4KDHgg).  The terms of use are displayed below in the original Japanese.
