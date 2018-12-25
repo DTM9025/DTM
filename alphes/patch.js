@@ -4,7 +4,8 @@
 	],
 	"id": "alphes",
 	"servers": [
-		"https://raw.githubusercontent.com/DTM9025/DTM/master/alphes/"
+		"http://thcrap.nmlgc.net/repos/DTM/alphes/",
+		"http://mirrors.thpatch.net/DTM/alphes/"
 	],
 	"title": "Alphes Styled Character Portraits (Art by Dairi)"
 }

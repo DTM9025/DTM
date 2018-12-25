@@ -1,6 +1,6 @@
 {
 	"README.md": 3231623168,
-	"patch.js": 263015206,
+	"patch.js": 3834722361,
 	"th14/front/logo/st01logo.png": 3186385746,
 	"th14/front/logo/st02logo.png": 585820051,
 	"th14/front/logo/st03logo.png": 805633436,
