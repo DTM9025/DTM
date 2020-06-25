@@ -7,8 +7,7 @@
 		"transparent_season_items": "Increases the transparency of season items (by Namusan)"
 	},
 	"servers": [
-		"http://thcrap.nmlgc.net/repos/DTM/",
-		"http://mirrors.thpatch.net/DTM/"
+		"https://mirrors.thpatch.net/DTM/"
 	],
 	"title": "DTM's Patch Repository"
 }
