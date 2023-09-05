@@ -22,13 +22,13 @@ Thanks to the thcrap patching engine, this patch is automatically updated whenev
 
 | Game      | Support  | Game      | Support  | Game      | Support  |  
 |:---------:|:--------:|:---------:|:--------:|:---------:|:--------:|  
-| **TH06**  | Complete | **TH12**  | Complete | **TH165** | Complete |  
-| **TH07**  | Complete | **TH125** | Complete | **TH17**  | Complete |  
-| **TH08**  | Complete | **TH13**  | Complete | **TH18**  | Complete |  
-| **TH09**  | Complete | **TH14**  | Complete | **TH185** | Complete |  
-| **TH095** | Complete | **TH143** | Complete | **TH19**  | Incomplete |  
-| **TH10**  | Complete | **TH15**  | Complete | **--** | -- |  
-| **TH11**  | Complete | **TH16**  | Complete | **--** | -- |  
+| **TH06**  | Complete | **TH12**  | Complete | **TH16**  | Complete |  
+| **TH07**  | Complete | **TH125** | Complete | **TH165** | Complete |  
+| **TH08**  | Complete | **TH128** | Complete | **TH17**  | Complete |  
+| **TH09**  | Complete | **TH13**  | Complete | **TH18**  | Complete |  
+| **TH095** | Complete | **TH14**  | Complete | **TH185** | Complete |  
+| **TH10**  | Complete | **TH143** | Complete | **TH19**  | Incomplete |  
+| **TH11**  | Complete | **TH15**  | Complete | **--** | -- |  
 
 ## Image Licensing
 The images used in this patch are the property of [Dairi](http://www.pixiv.net/member.php?id=4920496) and are available [here](https://goo.gl/4KDHgg).  The terms of use are displayed below in the original Japanese.
