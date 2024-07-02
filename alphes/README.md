@@ -27,7 +27,7 @@ Thanks to the thcrap patching engine, this patch is automatically updated whenev
 | **TH08**  | Complete | **TH128** | Complete | **TH17**  | Complete |  
 | **TH09**  | Complete | **TH13**  | Complete | **TH18**  | Complete |  
 | **TH095** | Complete | **TH14**  | Complete | **TH185** | Complete |  
-| **TH10**  | Complete | **TH143** | Complete | **TH19**  | Incomplete |  
+| **TH10**  | Complete | **TH143** | Complete | **TH19**  | Complete |  
 | **TH11**  | Complete | **TH15**  | Complete | **--** | -- |  
 
 ## Image Licensing
