@@ -2,7 +2,7 @@
 
 **[Return to Home](https://github.com/DTM9025/DTM)**
 
-This patch replaces ZUN's character portrait art with that of Dairi's, which are in the alphes style.  
+This patch replaces ZUN's character portrait art with that of Dairi's, which are in the alphes style. This patch is currently being developed by SuperChrim.
 **Example:**
 <p align="center">
   <b>ZUN Art -> Dairi Art</b><br>
