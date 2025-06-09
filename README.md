@@ -1,3 +1,8 @@
-# fumofumo
-由于DTM的Alphes风补丁有点"小问题"，所以我分叉了这个补丁项目给自己用……
-还有，这个项目没一句JavaScript，那些是JSON……
+# DTM's THcrap Repository
+
+Hello and welcome to my patch repository for the games in the Touhou series.  These patches use the [thcrap patching engine](https://thpatch.net/wiki/Touhou_Patch_Center) which allows for automatic updating and the ability to not have to modify game files.  Currently, the repository includes:
+* **[alphes:](https://github.com/DTM9025/DTM/tree/master/alphes)**  Alphes Styled Character Portraits (Art by Dairi)
+* **[lang_en-shifted_bgm:](https://github.com/DTM9025/DTM/tree/master/lang_en-shifted_bgm)**  English Language pack with shifted music titles in stage
+* **[transparent_season_items:](https://github.com/DTM9025/DTM/tree/master/transparent_season_items)**  Increases the transparency of season items (by Namusan)
+
+To use any of these patches, simply download [thcrap](https://thpatch.net/wiki/Touhou_Patch_Center:Download), run the configurer, and select the desired patch.  Note that generally, these patches should be selected after a language patch if you also want to use said language patch (e.g. lang_en -> alphes).  More detailed instructions are in the respective patch folder's README.
